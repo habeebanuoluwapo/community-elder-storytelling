@@ -6,6 +6,7 @@
 [![Clarity](https://img.shields.io/badge/Smart_Contracts-Clarity-orange.svg)](https://clarity-lang.org/)
 [![Stacks](https://img.shields.io/badge/Blockchain-Stacks-purple.svg)](https://www.stacks.co/)
 [![Community](https://img.shields.io/badge/Built_for-Community-blue.svg)](#community-impact)
+[![Wisdom Preservation](https://img.shields.io/badge/🧠_Wisdom-Preserved-gold.svg)](#wisdom-preservation-contract)
 
 ## 📖 Project Overview
 
